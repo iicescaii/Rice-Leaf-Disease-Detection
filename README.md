@@ -89,5 +89,3 @@ conv_base.trainable = False
 * **Mobile Integration:** Deploying as a mobile app with offline functionality and multilingual support for accessibility in remote areas.
 * **Treatment Advice:** Adding real-time detection features and instant treatment advice.
 * **Diverse Data:** Further training on images captured under varying lighting, weather, and growth stages.
-
-Would you like me to generate a specific `requirements.txt` file or a contribution guide for this repository?
