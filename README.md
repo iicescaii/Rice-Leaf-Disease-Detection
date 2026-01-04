@@ -47,7 +47,7 @@ The models were trained on extensive datasets with heavy use of **Data Augmentat
 | Model Stage | Total Images | Key Classes |
 | --- | --- | --- |
 | **Model 1 (Detection)** | 22,531 images | Rice Leaf vs. Non-Rice |
-| **Model 2 (Classification)** | 12,242 images | 9 Disease Classes (e.g., Bacterial Leaf Blight, Brown Spot, Leaf Blast, etc.) |
+| **Model 2 (Classification)** | 12,242 images | 9 Disease Classes ( (Bacterial Leaf Blight, Brown Spot, Healthy Rice Leaf, Leaf Blast, Leaf Scald, Narrow Brown Leaf Spot, Neck Blast, Rice Hispa, Sheath Blight .) ) |
 
 ---
 
